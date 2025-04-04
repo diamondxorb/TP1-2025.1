@@ -1,1 +1,1 @@
-Códigos das Listas Práticas de Java e o Projeto Prático
+Códigos da matéria de TP1, incluindo as listas práticas e o projeto
