@@ -38,7 +38,7 @@ public class Main {
         }
         quantidade++;
 
-        //Por algum motivo... Esse exercício é muito chato de se lidar com letras maiúsculas, a forma que fiz para contornar foi utilizar if==0//
+        //Por algum motivo... Esse exercício é muito chato de se lidar com letras maiúsculas, a forma que fiz para contornar foi utilizar (if i==0)//
         for(i=0; i<quantidade; i++) {
             words = fraseFinal.toString().split(" ");
             palavra = words[i];
