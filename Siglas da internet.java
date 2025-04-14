@@ -50,6 +50,7 @@ public class Main {
                 output.append(listaTraducao.get(j));
             } else {
                 if(i==0) {
+                    //Separa uma substring de tamanho um, no caso a primeira letra, muda para maiúsculo e concatena com a substring restante//
                     palavra = palavra.substring(0,1).toUpperCase().concat(palavra.substring(1));
                 }
                 output.append(palavra);
